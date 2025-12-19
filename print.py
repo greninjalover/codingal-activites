@@ -1,0 +1,6 @@
+print ("greninja is my favorite pokemon")
+print (508765936392639)
+print ("i am the best hehehehe",909090)
+print("my name is \nRamcharan")
+print("ramen is my nickname",end=" ")
+print("no its not")
