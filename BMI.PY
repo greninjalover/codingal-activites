@@ -8,7 +8,7 @@ if(BMI<18.4):
 elif(BMI<24.9):
     print("healthy")#doing good but i recommend to eat a little more;)
 elif(BMI<29.9):
-    print("overweight")# your just not getting my point when i said eat more i didnt mean eat all of mcdonals chicken nuggets eat less!!!
+    print("overweight")# your just not getting my point when i said eat more i didnt mean eat all of mcdonalds chicken nuggets eat less!!!
 elif(BMI<39.9):
     print("obese")# i literally said dont eat what part of eat less did you not understand
 else:
