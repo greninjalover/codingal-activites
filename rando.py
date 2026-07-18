@@ -7,7 +7,11 @@ while True:
     if rando==guess:
         print("You Got That Right!")
         break
+    elif rando<guess:
+        print("Hotter")
+    elif rando>guess:
+        print("Colder")
     else:
         print("Try Again!")
         
-
+ 
