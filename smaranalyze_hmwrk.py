@@ -13,7 +13,7 @@ print("Number of marks:", len(marks))
 print("First mark:", marks[0])
 print("Last mark:", marks[-1])
  
-first_three_marks = marks[0:3]
+first_b   three_marks = marks[0:3]
 print("First three marks:", first_three_marks)
  
 reversed_marks = marks[::-1]
