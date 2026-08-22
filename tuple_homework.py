@@ -16,7 +16,7 @@ print("Day 7 status:", weeklyhabits[6])
 firstfewdays = weeklyhabits[0:3]
 print("First three days:", firstfewdays)
  
-weekenddays = weeklyhabits[5:7]
+weekenddays = weeklyhabits[5:7 ]
 print("Weekend days:", weekenddays)
  
 weekly_habits = weeklyhabits + (1,)
